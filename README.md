@@ -1,3 +1,5 @@
+
+
 ## Pattern Sampler MCP
 
 将 GarmentCode 的纸样随机采样器通过 MCP（Model Context Protocol）以 stdio 方式暴露为工具，供任意兼容 MCP 的客户端调用。
