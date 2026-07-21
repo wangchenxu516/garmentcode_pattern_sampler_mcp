@@ -1,4 +1,4 @@
-
+视频：https://www.bilibili.com/video/BV1rtK468E6S/
 
 ## Pattern Sampler MCP
 
